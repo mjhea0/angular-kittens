@@ -2,6 +2,8 @@
 
 ADD URL
 
+![angular kittens](angular-kittens.png)
+
 ## Local Setup
 
 1. Fork/Clone
@@ -9,6 +11,8 @@ ADD URL
 1. `gulp`
 
 ## Stories
+
+### Part 1
 
 ```
 Given I am on the index (`/#/`) page
@@ -25,7 +29,7 @@ And the kitten bio
 And the number of likes a kitten has
 ```
 
-## Part 2
+### Part 2
 
 > Make sure to add a service to store all kittens
 
@@ -45,7 +49,7 @@ Then I can see my comment in the list of comments for that kitten
 And I can no longer see the form
 ```
 
-## Part 3
+### Part 3
 
 ```
 Given I am on the index page
@@ -54,7 +58,7 @@ When I click the "Like" link for a kitten
 Then the number of likes for that kitten is increased by one
 ```
 
-## Part 4
+### Part 4
 
 ```
 Given I am on the index page
