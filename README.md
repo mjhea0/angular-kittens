@@ -1,6 +1,6 @@
 # Angular Kittens
 
-ADD URL
+http://mherman.org/angular-kittens/#/
 
 ![angular kittens](angular-kittens.png)
 
